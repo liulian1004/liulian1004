@@ -1,5 +1,5 @@
 ### Project Lists
-<strong> Click <a href="https://rb.gy/rwm2gt">here</a> to check all project demo vedios!</strong>
+<strong> Click <a href="https://rb.gy/rwm2gt">here</a> to check project demo vedios!</strong>
 
 * _Full-Stack Projects_:
 
