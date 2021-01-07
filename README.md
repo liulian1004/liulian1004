@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Project Lists</h1>
-    <p> Full-Stack Projects:</p>
+1. Full-Stack Projects:
+    - [Job Recommendation Website](https://github.com/liulian1004/Job-Recommendation-Full-Stack-service)
+
+    <p> </p>
     My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
     1. [Job Recommendation Website](https://github.com/liulian1004/Job-Recommendation-Full-Stack-service)
-Project Demo Vdio:
+    
+Project Demo Vedio:
 https://rb.gy/rwm2gt
 
 Web Application:
