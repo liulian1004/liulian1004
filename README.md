@@ -1,41 +1,31 @@
-### Welcome to my profile 👋
+### Project Lists
+<strong> Click <a href="https://rb.gy/rwm2gt">here</a> to check all project demo vedios!</strong>
 
-<!--
-**liulian1004/liulian1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* _Full-Stack Projects_:
 
-Here are some ideas to get you started:
+    <a href="https://github.com/liulian1004/Job-Recommendation-Full-Stack-service">Job Recommendation Website</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1>Project Lists</h1>
-1. Full-Stack Projects:
-
-    - [Job Recommendation Website](https://github.com/liulian1004/Job-Recommendation-Full-Stack-service)
-
-    <p> </p>
-    My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-    1. [Job Recommendation Website](https://github.com/liulian1004/Job-Recommendation-Full-Stack-service)
+    <a href="https://github.com/liulian1004/spring-mvc-project">Online Shopping Website</a>
     
-Project Demo Vedio:
-https://rb.gy/rwm2gt
+    <a href="https://github.com/liulian1004/spring-boot-project">Project-Sharing Website(backend)</a>
+    
+    <a href="https://github.com/liulian1004/project-outsoursing-website-frontend-part">Project-Sharing Website(frontend)</a>
 
-Web Application:
-Job Recommendation Website
-Online Shopping Website
-Project-sharing Website
+* _Android Applications_:
+    
+    <a href="https://github.com/liulian1004/News-Android-App">Tinder-like News App</a>
+    
+    <a href="https://github.com/liulian1004/Second-hands-Android-App-Frontend">Secondhands App(mobile-end)</a>
+    
+    <a href="https://github.com/liulian1004/Secondhands-app-backend-part">Secondhands App(backend)</a>
+    
+* _Front-end Projects_:
 
-Android Application:
-Second-hands App
-Tinder-like News App
-
-Front-end Application:
-React: NBA Players Dashboard
-React: StartLink Dashboard
-Vue: Weather app
+    <a href="https://github.com/liulian1004/Vue_Framework">Vue: Weather app</a>
+    
+    <a href="https://github.com/liulian1004/NBA-dashboard">React: NBA Players Dashboard</a>
+    
+    <a href="https://github.com/liulian1004/STARLINK">React: Satellite Tracker Dashboard</a>
+    
+    <a href="https://github.com/liulian1004/React-Demo">React: To-do list</a>
+    
