@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>Project Lists</h1>
     <p> Full-Stack Projects:</p>
-    1.[Job Recommendation Website](https://github.com/liulian1004/Job-Recommendation-Full-Stack-service)
+    1. [Job Recommendation Website](https://github.com/liulian1004/Job-Recommendation-Full-Stack-service)
 Project Demo Vdio:
 https://rb.gy/rwm2gt
 
