@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Project Demo Vdio:
+https://rb.gy/rwm2gt
+
+Web Application:
+Job Recommendation Website
+Online Shopping Website
+Project-sharing Website
+
+Android Application:
+Second-hands App
+Tinder-like News App
+
+Front-end Application:
+React: NBA Players Dashboard
+React: StartLink Dashboard
+Vue: Weather app
