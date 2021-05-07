@@ -7,23 +7,23 @@
 
     <a href="https://github.com/liulian1004/spring-mvc-project">JS + JAVA : Online Shopping Website</a>
     
-    <a href="https://github.com/liulian1004/spring-boot-project">Project-Sharing Website(backend): JAVA </a>
+    <a href="https://github.com/liulian1004/spring-boot-project">JAVA : Project-Sharing Website(backend) </a>
     
-    <a href="https://github.com/liulian1004/project-outsoursing-website-frontend-part">Project-Sharing Website(frontend): JS </a>
+    <a href="https://github.com/liulian1004/project-outsoursing-website-frontend-part">JS : Project-Sharing Website(frontend) </a>
     
-    <a href ="https://github.com/liulian1004/social_media_app/tree/master"> social-media wesite: Node.js </a>
+    <a href ="https://github.com/liulian1004/social_media_app/tree/master">Node.js : social-media wesite </a>
         
 * _Back-End Projects_:
 
-    <a href="https://github.com/liulian1004/balanceSheet">Family Balance Sheet: Go</a>
+    <a href="https://github.com/liulian1004/balanceSheet">Go : Family Balance Sheet </a>
     
 * _Android Applications_:
     
-    <a href="https://github.com/liulian1004/News-Android-App">Tinder-like News App : JAVA</a>
+    <a href="https://github.com/liulian1004/News-Android-App">JAVA : Tinder-like News App </a>
     
-    <a href="https://github.com/liulian1004/Second-hands-Android-App-Frontend">Secondhands App(mobile-end): JAVA</a>
+    <a href="https://github.com/liulian1004/Second-hands-Android-App-Frontend">JAVA : Secondhands App(mobile-end)</a>
     
-    <a href="https://github.com/liulian1004/Secondhands-app-backend-part">Secondhands App(backend) : JAVA</a>
+    <a href="https://github.com/liulian1004/Secondhands-app-backend-part">JAVA : Secondhands App(backend)</a>
     
 * _Front-end Projects_:
 
