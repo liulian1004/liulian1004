@@ -12,6 +12,8 @@
     <a href="https://github.com/liulian1004/project-outsoursing-website-frontend-part">JS : Project-Sharing Website(frontend) </a>
     
     <a href ="https://github.com/liulian1004/social_media_app/tree/master">Node.js : social-media wesite </a>
+    
+    <a href ="https://github.com/liulian1004/bookings-app">Go : hotel booking system </a>
         
 * _Back-End Projects_:
 
