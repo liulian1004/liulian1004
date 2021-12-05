@@ -40,5 +40,9 @@
  * _GAME_:
  
      <a href="https://github.com/liulian1004/snack/">TypeSript: Snack</a>
+  
+ * _Machine Learning_:
+ 
+    <a href="https://github.com/liulian1004/TSPGA">Genetic Algorithm: travel sales person</a>
 
     
